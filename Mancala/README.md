@@ -8,7 +8,7 @@ Mancala is a simple, yet fun game. Both players control a field, which consists 
 
 To make a move simply choose a hole that has stones in it. When you make a move, all stones are taken from the chosen hole (leaving it empty) and then redistributed through the field in counter-clockwise fashion, leaving one stone in each hole.
 
-![screenshot1](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/2.png)
+![screenshot2](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/2.png)
 
 Player made a move from his first hole, which is now empty.
 
@@ -16,11 +16,11 @@ If turn ends on your side of the field, you gain one more turn! Feel free to abu
 
 If turn ends in the hole that is empty, player who made the turn STEALS all the stones from the opposite hole and puts them in his granary.
 
-![screenshot1](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/3.png
+![screenshot3](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/3.png
 
 Player is about to make a move from the highlighted hole. Now, pay close attention...
 
-![screenshot1](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/4.png
+![screenshot4](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/4.png
 
 Player stole all the stones from the opposite hole!
 

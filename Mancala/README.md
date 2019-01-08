@@ -16,11 +16,11 @@ If turn ends on your side of the field, you gain one more turn! Feel free to abu
 
 If turn ends in the hole that is empty, player who made the turn STEALS all the stones from the opposite hole and puts them in his granary.
 
-![screenshot3](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/3.png
+![screenshot3](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/3.png)
 
 Player is about to make a move from the highlighted hole. Now, pay close attention...
 
-![screenshot4](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/4.png
+![screenshot4](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/4.png)
 
 Player stole all the stones from the opposite hole!
 

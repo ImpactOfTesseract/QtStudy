@@ -4,7 +4,7 @@ What is Mancala? if you want an in-depth detailed description, please visit this
 
 Mancala is a simple, yet fun game. Both players control a field, which consists of 6 holes and one big hole, called The Granary. Each player starts with 6 stones in each on his normal holes and an empty granary. Your goal is to have more stones in your granary than your oponent has in his.
 
-[INSERT SCREENSHOT 1]
+![screenshot1](https://github.com/ImpactOfTesseract/QtStudy/blob/master/Mancala/Screenshots/1.png)
 
 To make a move simply choose a hole that has stones in it. When you make a move, all stones are taken from the chosen hole (leaving it empty) and then redistributed through the field in counter-clockwise fashion, leaving one stone in each hole.
 
